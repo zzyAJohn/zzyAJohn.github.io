@@ -93,7 +93,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "幺克（YOAKE）", href: "https://github.com/YOYOYOAKE" },
+    { title: "YOYOYOAKE", href: "https://github.com/YOYOYOAKE" },
     # { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     # { title: "Kun Qian", href: "http://kunq.me" },
     # { title: "Sherry Woo", href: "https://sherrywoo.me/" },
