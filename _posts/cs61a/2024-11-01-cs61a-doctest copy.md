@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "cs61a-doctest"
+title:        "CS61A-doctest"
 author:       "AJohn"
 header-style: text
 catalog:      true
@@ -11,6 +11,11 @@ tags:
     - Berkeley
     - CS61A
 ---
+
+>在自定义的函数下面写好注释是一个很好的习惯
+——AJohn
+
+# 通过编写样例测试来检查程序
 
 ```py
 def fbnc(x):
