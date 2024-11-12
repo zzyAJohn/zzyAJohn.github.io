@@ -12,7 +12,7 @@ tags:
     - SQL
 ---
 
->你只需要无条件地信任你的递归函数就可以了，而递归函数需要考虑的就很多了
+>你只需要无条件地信任并调用你的递归函数就可以了，而递归函数需要考虑的事情就很多了
 ——AJohn
 
 # 阶乘
@@ -97,6 +97,44 @@ Move 2 from 3 to 2
 Move 1 from 1 to 2
 ```
 
-**你只需要无条件地信任你的递归函数就可以了，而递归函数需要考虑的就很多了，何乐而不为呢？**
+调用：`hanoi(5,1,2)`
+
+输出：
+```
+Move 1 from 1 to 2
+Move 2 from 1 to 3
+Move 1 from 2 to 3
+Move 3 from 1 to 2
+Move 1 from 3 to 1
+Move 2 from 3 to 2
+Move 1 from 1 to 2
+Move 4 from 1 to 3
+Move 1 from 2 to 3
+Move 2 from 2 to 1
+Move 1 from 3 to 1
+Move 3 from 2 to 3
+Move 1 from 1 to 2
+Move 2 from 1 to 3
+Move 1 from 2 to 3
+Move 5 from 1 to 2
+Move 1 from 3 to 1
+Move 2 from 3 to 2
+Move 1 from 1 to 2
+Move 3 from 3 to 1
+Move 1 from 2 to 3
+Move 2 from 2 to 1
+Move 1 from 3 to 1
+Move 4 from 3 to 2
+Move 1 from 1 to 2
+Move 2 from 1 to 3
+Move 1 from 2 to 3
+Move 3 from 1 to 2
+Move 1 from 3 to 1
+Move 2 from 3 to 2
+Move 1 from 1 to 2
+
+```
+
+**你让它做什么，它就一定会做到，无论过程如何。你只需要无条件地信任并调用你的递归函数就可以了，而递归函数需要考虑的事情就很多了，何乐而不为呢？**
 
 
