@@ -8,8 +8,6 @@ tags:
     - CS61A
     - Berkeley
     - Python
-    - Scheme
-    - SQL
 ---
 
 >你只需要无条件地信任并调用你的递归函数就可以了，而递归函数需要考虑的事情就很多了
