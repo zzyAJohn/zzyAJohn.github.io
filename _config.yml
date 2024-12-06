@@ -94,6 +94,7 @@ page-mathjax: false
 # Friends
 friends:
   [
+    { title: "AJohn Blog", href: "https://ajohn.top/" },
     { title: "YOYOYOAKE", href: "https://github.com/YOYOYOAKE" },
     { title: "Moiads", href: "https://moiads.xyz/" },
     # { title: "Kun Qian", href: "http://kunq.me" },
